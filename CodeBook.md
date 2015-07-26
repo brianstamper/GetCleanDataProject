@@ -31,6 +31,7 @@ Before the data was combined or modified in any way, it contained the following 
 
 # Code book
 The following variables are included in the final data set:
+
 |Variable|Description|
 |--------|-----------|
 |subjectID|Unique identifier of subject|
